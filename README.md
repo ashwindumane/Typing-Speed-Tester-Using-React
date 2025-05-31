@@ -8,10 +8,10 @@ Welcome to **Typing Speed Tester** — a beautiful, interactive, and modern typi
 
 ## 🖼️ Screenshots
 
-[Settings](![Screenshot 2025-05-31 234415](https://github.com/user-attachments/assets/5326412e-83bd-4054-acab-db1e5db5430a)
-[Stats](![Screenshot 2025-05-31 234405](https://github.com/user-attachments/assets/02399c03-f509-4737-b6a5-dcdc71291923)
-[Results](![Screenshot 2025-05-31 234355](https://github.com/user-attachments/assets/c4032bbc-e0a1-4168-b1aa-9224277460b1)
-[Typing](![Screenshot 2025-05-31 234335](https://github.com/user-attachments/assets/374ebd58-d029-4010-8b8b-60476cd7435b)
+[Settings]![Screenshot 2025-05-31 234415](https://github.com/user-attachments/assets/5326412e-83bd-4054-acab-db1e5db5430a)
+[Stats]![Screenshot 2025-05-31 234405](https://github.com/user-attachments/assets/02399c03-f509-4737-b6a5-dcdc71291923)
+[Results]![Screenshot 2025-05-31 234355](https://github.com/user-attachments/assets/c4032bbc-e0a1-4168-b1aa-9224277460b1)
+[Typing] ![Screenshot 2025-05-31 234335](https://github.com/user-attachments/assets/374ebd58-d029-4010-8b8b-60476cd7435b)
 
 
 ## 🚀 Features
