@@ -479,3 +479,33 @@ body {
 .accuracy-color {
   background: var(--success-color);
 }
+
+.app-footer {
+  background: linear-gradient(to right, #7f00ff, #e100ff);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: auto;
+  font-size: 0.95rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 1.4rem;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.2);
+  color: #ffccff;
+}
