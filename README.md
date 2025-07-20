@@ -1,4 +1,5 @@
-# ⚡ Typing Speed Tester — Built with React & Vite 🔗 [Live Site](https://ashwindumane.github.io/Typing-Speed-Tester-Using-React)
+# ⚡ Typing Speed Tester — Built with React 🔗 [Live Site](https://ashwindumane.github.io/Typing-Speed-Tester-Using-React)
+https://typing-speed-tester-by-ashwin.vercel.app/
 
 Welcome to **Typing Speed Tester** — a beautiful, interactive, and modern typing speed test web application. You can test your typing skills, track speed and accuracy, and view stats in real-time with a smooth and visually appealing UI.
 
