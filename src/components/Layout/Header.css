@@ -7,12 +7,11 @@
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-
 /* Fancy tab buttons */
 .fancy-tab {
   background-color: transparent;
   border: none;
-  color: #eee;
+  color: #000000;
   font-weight: 600;
   margin: 0 0.6rem;
   padding: 0.6rem 1.2rem;
